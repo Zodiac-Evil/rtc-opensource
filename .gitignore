@@ -29,3 +29,6 @@
 
 # temp files producded by emacs editor
 *~
+
+#ignore documents
+trunk/document/
